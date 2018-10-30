@@ -6,6 +6,10 @@
   "repository": "git@github.com:GatsbyCentral/gatsby-plugin-remark-collection.git",
   "author": "GatsbyCentral",
   "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
   "dependencies": {
     "lodash": "^4.17.11"
   }
